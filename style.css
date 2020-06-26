@@ -26,17 +26,17 @@ h1 {
 #myheader1{
     text-align: center;
     
-    width:20.5%
+    width:23.5%;
     position: relative;
     left: 0.15%;
     float:right;
-    padding-left: 0.5%;
+    padding-left: 1%;
 
     
   }
   #myheader2{
     text-align: center;
-    width:19
+    width:20%;
     position: relative;
     left: 0.15%;
     float:right;
