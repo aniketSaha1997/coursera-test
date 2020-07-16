@@ -34,7 +34,7 @@ body {
 .navbar-brand h1{
 	font-family: 'Lora', serif;
 	color:#557c3e;
-	font-size:150%;
+	font-size:1.5em;
 	text-transform:uppercase;
 	font-weight:bold;
 	text-shadow:1px 1px 1px #222;
@@ -42,9 +42,9 @@ body {
 	margin-bottom:0;
 	line-height:.75;
 	padding-top: 10px;
-	position:relative;
-	bottom: 20%;
-	right:5%;
+	position: absolute;
+	top: 5px;
+	left:10px;
 
 }
 
@@ -159,7 +159,7 @@ p {
 	}
 	.navbar-brand h1{
 		padding-top: 10px;
-		font-size: 4vw;
+		font-size: 5vw;
 	}
 	
 	
@@ -170,6 +170,4 @@ p {
 		margin-right: 5px;
 	}
 }
-	
-
 	
