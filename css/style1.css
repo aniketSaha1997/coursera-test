@@ -34,7 +34,7 @@ body {
 .navbar-brand h1{
 	font-family: 'Lora', serif;
 	color:#557c3e;
-	font-size:1.2em;
+	font-size:150%;
 	text-transform:uppercase;
 	font-weight:bold;
 	text-shadow:1px 1px 1px #222;
